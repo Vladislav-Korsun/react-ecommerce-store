@@ -3,7 +3,7 @@ A modern e-commerce web application built with React and TypeScript.
 The project simulates an online gadget store with product browsing, filtering, cart functionality, and a clean user interface.
 
 ## 🔗 Live Preview
-[View Live Demo](https://<your-vercel-link>.vercel.app)
+[View Live Demo](https://react-ecommerce-store-z24j.vercel.app)
 
 ## 🎯 Project Overview
 This project represents a fully functional frontend e-commerce application.
